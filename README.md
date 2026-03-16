@@ -1,4 +1,4 @@
-# Elite-placement-training-journey-file
+
 # 🚀 Elite Placement Training Journey
 
 Welcome to my **Elite Placement Training Repository**.  
